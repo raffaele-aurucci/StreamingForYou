@@ -18,3 +18,7 @@ Some screenshots showing how the application works:
 * ```Java Swing```
 * ```JDBC Connector```
 * ```MySQL```
+
+## Other 
+
+In **documents** folder can find project documentation, including database schemas.
