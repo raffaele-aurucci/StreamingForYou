@@ -16,7 +16,7 @@ Some screenshots showing how the application works:
 
 * ```Java```
 * ```Java Swing```
-* ```JDBC Connector```
+* ```JDBC Driver```
 * ```MySQL```
 
 ## Other 
